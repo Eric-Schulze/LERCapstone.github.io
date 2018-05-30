@@ -1,0 +1,29 @@
+APH Alexa Remaining Development Items
+
+DONE - Sound file integration
+
+
+DONE - From start a new game, start game with default setting, prompt with yes or no. If yes start game with default settings, if no prompt for number of players and difficulty
+DONE - Have default players 1 and difficulty easy
+
+DONE - Rename difficulty beginner, intermediate and advanced
+
+DONE - Remove cancel from menu
+
+Max number of answers is 4
+
+DONE - Three questions per players
+
+DONE - correct answer is 0
+DONE - change "wrong" to "incorrect"
+
+DONE - Don't say main menu
+DONE - Say all players score at the end of each questions
+
+DONE - Say "O and M" instead of full words
+
+DONE - remove instructions from beginning of game
+
+
+
+
